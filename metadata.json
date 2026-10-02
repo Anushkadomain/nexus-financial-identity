@@ -1,0 +1,8 @@
+{
+  "name": "NEXUS — Financial Identity & Trust Network",
+  "description": "AI-powered financial identity platform helping students, freelancers, gig workers, and small business owners demonstrate financial credibility using consent-based alternative financial data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
